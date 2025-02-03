@@ -14,13 +14,13 @@ Greatest accuracy achieved was around 83% with the Deep Learning model, which wa
 
 #### Initializes conda environment and installs necessary packages
 
-```http
+```bash
   chmod +x install.sh && ./install.sh
 ```
 
 #### Run the program
 
-```http
+```bash
   python3 main.py --model nn
 ```
 
